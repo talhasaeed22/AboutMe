@@ -1,0 +1,51 @@
+
+.inside-header {
+  display: flex;
+}
+
+#image img {
+  border-radius: 23px;
+  border: 2px solid black;
+}
+.sections {
+  display: flex;
+  margin: 40px 23px;
+}
+.sec {
+  border: 2px solid black;
+    width: 50%;
+    margin: 0px 2%;
+    padding: 1% 3%;
+    border-radius: 23px;
+    transition: all 0.4s ease-in-out;
+    background-color: #f1e4cd;
+}
+
+.sec:hover {
+  transform: scale(1.1);
+}
+
+.p-button {
+  display: block;
+  margin: auto;
+  width: 32%;
+  height: 53px;
+  background-color: #d35b4e;
+}
+
+.sec h1 {
+  text-align: center;
+  color: #d35b4e;
+
+}
+
+#name {
+  text-align: center;
+  padding: 52px 36px;
+
+}
+
+#name h1 {
+  color: #d35b4e;
+
+}

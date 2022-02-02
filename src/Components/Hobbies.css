@@ -1,0 +1,17 @@
+.inside-header{
+    margin: 78px 0px;
+}
+#right .p-heading{
+    text-align: center;
+    color: #d35b4e;
+    font-size: 2.3rem;
+    text-decoration: underline;
+}
+#name {
+    text-align: center;
+    padding: 26px 36px;
+    
+  }
+#right .sec-heading{
+    margin-bottom: 12px;
+}

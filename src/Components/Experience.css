@@ -1,0 +1,26 @@
+#exp_right .p-heading{
+    text-align: center;
+    color: #d35b4e;
+    font-size: 2.3rem;
+    text-decoration: underline;
+}
+#exp_right .content{
+    padding: 34px;
+}
+.sec-heading{
+    text-align: center;
+}
+.progress-bar{
+    border: 1px solid black;
+    background-color: #d35b4e;
+    color: white;
+    height: 33px;
+    text-align: center;
+    padding-top: 12px;
+    margin: 12px 0px;
+}
+.para{
+    padding: 33px;
+    margin: 23px 0px;
+    font-size: 1.2rem;
+}

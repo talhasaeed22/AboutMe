@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    height: 57px;
+    background-color: black;
+    color: white;
+  }
+  .header #logo{
+    margin: 12px 63px;
+  
+  }
+  .header #logo h2{
+    font-family: 'Satisfy', cursive;
+  }
+  .header #icons{
+    display: flex;
+    margin-left: 33%;
+    justify-content: center;
+    align-items: center;
+  }
+  .header i {
+    font-size: 1.8rem;
+    margin: 0px 33px;
+    color: white;
+    transition: all 0.4s ease-in-out;
+  }
+  .header i:hover {
+    transform: scale(1.7);
+  }

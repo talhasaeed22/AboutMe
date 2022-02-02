@@ -1,0 +1,24 @@
+#right .p-heading{
+    text-align: center;
+    color: #d35b4e;
+    font-size: 2.3rem;
+    text-decoration: underline;
+}
+#edu_right .content{
+    display: flex;
+    padding: 12px 33px;
+}
+.content .text{
+    width: 60%;
+}
+.content .sec-heading{
+    margin: 23px 33px;
+    font-size: 1.5rem;
+}
+.content img{
+    border-radius: 23px;
+border: 2px solid black;
+}
+#left ul{
+    height: 808px;
+}
