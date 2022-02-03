@@ -24,3 +24,15 @@
     margin: 23px 0px;
     font-size: 1.2rem;
 }
+@media (max-width:410px){
+    #exp_right .p-heading{
+        font-size: 1.8rem;
+    }
+    .para{
+        padding: 0px;
+        margin: 0px 0px;
+        font-size: 1rem;
+    }.content .sec-heading{
+        font-size: 1.1rem;
+    }
+}

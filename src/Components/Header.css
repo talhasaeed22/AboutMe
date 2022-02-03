@@ -26,3 +26,24 @@
   .header i:hover {
     transform: scale(1.7);
   }
+
+  /* Media */
+
+@media (max-width: 900px){
+  .header{
+      flex-direction: column;
+      height: 73px;
+  }
+  #icons{
+      align-items: center;
+      justify-content: center;
+  }
+  .header i{
+      
+      margin: 0px 12px;
+  }
+  .header #logo{
+    margin: 0px;
+  }
+}
+

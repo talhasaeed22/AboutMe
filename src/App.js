@@ -32,7 +32,7 @@ function App() {
       <Router>
       <Header/>
       <div className="main-container">
-        <div id="left">
+        <div id="left" style={{backgroundColor: mode === 'light' ? '#d35b4e' : '#042743', borderRadius: '23px'}} >
           <Navbar mode={mode} toggleMode={toggleMode} />
         </div>
         <div id="right" style={{backgroundColor:mode ==='light'?'white':'#383636', borderRadius: '23px'}}>

@@ -49,3 +49,28 @@
   color: #d35b4e;
 
 }
+@media (max-width:840px){
+  *{
+    font-size: 1.1rem;
+  }.inside-header{
+    flex-direction: column;
+    margin: 12px 12px;
+  }#image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }#image img{
+    width: 223px;
+  }
+}
+@media (max-width:440px){
+  .sections {
+    flex-direction: column;
+    width: 150%;
+  }.sec{
+    margin: 12px 0px;
+
+  }#image img{
+    width: 173px;
+  }
+}

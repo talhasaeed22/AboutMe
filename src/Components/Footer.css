@@ -64,3 +64,9 @@
     display: block;
     margin: 4% auto;
   }
+  @media (max-width:760px){
+    #footer2 .form{
+      padding: 12px 2px;
+      width: 80%;
+    }
+  }
