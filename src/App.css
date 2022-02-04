@@ -20,7 +20,7 @@ body {
   height: 706px;
 }
 #left ul li {
-  margin: 30% 15%;
+  margin: 25% 15%;
   list-style: none;
 }
 #left ul li a {
@@ -88,6 +88,11 @@ transform: scale(1.1);
   #left ul li a, #left ul #dark-heading{
     font-size: 0.9rem;
   }
+  #left ul li a{
+    padding: 7px;
+    margin-left: 4px;
+  }
+
 }
 @media (max-width:440px){
   #right{
